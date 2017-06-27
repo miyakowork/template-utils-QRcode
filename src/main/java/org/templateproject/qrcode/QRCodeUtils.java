@@ -1,8 +1,8 @@
-package me.wuwenbin.qrcode;
+package org.templateproject.qrcode;
 
 import com.google.zxing.common.BitMatrix;
-import me.wuwenbin.qrcode.matrix.MatrixToImageWriterEx;
-import me.wuwenbin.qrcode.matrix.MatrixToLogoImageConfig;
+import org.templateproject.qrcode.matrix.MatrixToImageWriterEx;
+import org.templateproject.qrcode.matrix.MatrixToLogoImageConfig;
 
 import java.io.IOException;
 

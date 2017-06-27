@@ -1,4 +1,4 @@
-package me.wuwenbin.qrcode.matrix;
+package org.templateproject.qrcode.matrix;
 
 import java.awt.Color;
 

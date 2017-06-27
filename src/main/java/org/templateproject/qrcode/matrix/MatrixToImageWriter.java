@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package me.wuwenbin.qrcode.matrix;
+package org.templateproject.qrcode.matrix;
 
 import com.google.zxing.common.BitMatrix;
 

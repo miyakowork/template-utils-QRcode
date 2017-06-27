@@ -1,4 +1,4 @@
-package me.wuwenbin.qrcode.matrix;
+package org.templateproject.qrcode.matrix;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
